@@ -1,15 +1,15 @@
-# neps_logica
+# NEPS Lógica
 
-Este repositório é feito para salvar minhas soluções dos problemas contidos no site neps academy.
+Este repositório contém minhas soluções para os problemas disponíveis no site [NEPS Academy]([https://neps.academy/](https://neps.academy/br/dashboard)). Além disso, inclui questões de algumas das principais competições de programação do Brasil.
 
-Este repositorio abrange tbm questões das principais maratonas do brasil
+### Competições incluídas:
+- OBI 2007
+- OBI 2008
+- OBI 2009
+- OBI 2010
+- OBI 2011
+- OBI 2012
+- OBI 2013
+- OBI 2014
 
-obi 2007
-obi 2008
-obi 2009
-obi 2010
-obi 2011
-obi 2012
-obi 2013
-obi 2014
-
+Sinta-se à vontade para explorar o código, contribuir ou discutir soluções!
