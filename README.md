@@ -1,6 +1,6 @@
 # NEPS Lógica
 
-Este repositório contém minhas soluções para os problemas disponíveis no site [NEPS Academy]([https://neps.academy/](https://neps.academy/br/dashboard)). Além disso, inclui questões de algumas das principais competições de programação do Brasil.
+Este repositório contém minhas soluções para os problemas disponíveis no site [NEPS Academy](https://neps.academy/br/dashboard). Além disso, inclui questões de algumas das principais competições de programação do Brasil.
 
 ### Competições incluídas:
 - OBI 2007
