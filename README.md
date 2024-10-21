@@ -2,7 +2,13 @@
 
 Este repositório contém minhas soluções para os problemas disponíveis no site [NEPS Academy](https://neps.academy/br/dashboard). Além disso, inclui questões de algumas das principais competições de programação do Brasil.
 
+
+
 ### Competições incluídas:
+
+- [SBC 2023](https://github.com/renatog17/neps_logica/tree/main/src/sbc2023)
+- [SBC 2016](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016)
+
 - [OBI 2007](https://github.com/renatog17/neps_logica/tree/main/src/obi2007)
 - [OBI 2008](https://github.com/renatog17/neps_logica/tree/main/src/obi2008)
 - [OBI 2009](https://github.com/renatog17/neps_logica/tree/main/src/obi2009)
