@@ -16,5 +16,10 @@ Este repositório contém minhas soluções para os problemas disponíveis no si
 - [OBI 2017](https://github.com/renatog17/neps_logica/tree/main/src/obi2017)
 - [OBI 2018](https://github.com/renatog17/neps_logica/tree/main/src/obi2018)
 - [OBI 2019](https://github.com/renatog17/neps_logica/tree/main/src/obi2019)
+- [OBI 2020](https://github.com/renatog17/neps_logica/tree/main/src/obi2020)
+- [OBI 2021](https://github.com/renatog17/neps_logica/tree/main/src/obi2021)
+- [OBI 2022](https://github.com/renatog17/neps_logica/tree/main/src/obi2022)
+- [OBI 2023](https://github.com/renatog17/neps_logica/tree/main/src/obi2023)
+- [OBI 2024](https://github.com/renatog17/neps_logica/tree/main/src/obi2024)
 
 Sinta-se à vontade para explorar o código, contribuir ou discutir soluções!
