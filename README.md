@@ -4,11 +4,11 @@ Este repositório contém minhas soluções para os problemas disponíveis no si
 
 
 
-### Competições incluídas:
-
+# Competições incluídas:
+## SBC
 - [SBC 2023](https://github.com/renatog17/neps_logica/tree/main/src/sbc2023)
 - [SBC 2016](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016)
-
+## OBI
 - [OBI 2007](https://github.com/renatog17/neps_logica/tree/main/src/obi2007)
 - [OBI 2008](https://github.com/renatog17/neps_logica/tree/main/src/obi2008)
 - [OBI 2009](https://github.com/renatog17/neps_logica/tree/main/src/obi2009)
