@@ -11,16 +11,14 @@ public class Main {
 		
 		int start = 1;
 		int cont = 0;
-		while (true) {
-			int aux = (int) Math.pow(start, p);
-			cont ++;
-			if(start>n) {
-				break;
-			}else {
-				start += aux;
-			}
+		while (start<n) {
+			start = start*p;
+			cont++;
 		}
-		System.out.println(cont);
+		if(start>n)
+		System.out.println(cont-1);
+		else
+			System.out.println(cont);
 	}
 
 }
