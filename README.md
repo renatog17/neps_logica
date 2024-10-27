@@ -8,6 +8,7 @@ Este repositório contém minhas soluções para os problemas disponíveis no si
 ## SBC
 - [SBC 2023](https://github.com/renatog17/neps_logica/tree/main/src/sbc2023)
 - [SBC 2016](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016)
+- [SBC 2016 - Nacional](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016/nacional/atribuindoequipes)
 ## OBI
 - [OBI 2007](https://github.com/renatog17/neps_logica/tree/main/src/obi2007)
 - [OBI 2008](https://github.com/renatog17/neps_logica/tree/main/src/obi2008)
