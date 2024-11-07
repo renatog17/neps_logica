@@ -10,6 +10,12 @@ Este repositório contém minhas soluções para os problemas disponíveis no si
 - [SBC 2016](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016)
 - [SBC 2016 - Nacional](https://github.com/renatog17/neps_logica/tree/main/src/sbc2016/nacional/atribuindoequipes)
 ## OBI
+- [OBI 2001](https://github.com/renatog17/neps_logica/tree/main/src/obi2001)
+- [OBI 2002](https://github.com/renatog17/neps_logica/tree/main/src/obi2002)
+- [OBI 2003](https://github.com/renatog17/neps_logica/tree/main/src/obi2003)
+- [OBI 2004](https://github.com/renatog17/neps_logica/tree/main/src/obi2004)
+- [OBI 2005](https://github.com/renatog17/neps_logica/tree/main/src/obi2005)
+- [OBI 2006](https://github.com/renatog17/neps_logica/tree/main/src/obi2006)
 - [OBI 2007](https://github.com/renatog17/neps_logica/tree/main/src/obi2007)
 - [OBI 2008](https://github.com/renatog17/neps_logica/tree/main/src/obi2008)
 - [OBI 2009](https://github.com/renatog17/neps_logica/tree/main/src/obi2009)
