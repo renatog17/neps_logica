@@ -12,10 +12,15 @@ public class Main {
 			fila[i] = sc.nextInt();
 		}
 		//fazer um array de estado para saber se o número ainda está na fila e antes de imprimir, apenas consultar neste array
-		int s = sc.nextInt();
-		int sairam[] = new int[s];
-		for (int i = 0; i < sairam.length; i++) {
-			sairam[i] = sc.nextInt();
+		int m = sc.nextInt();
+		int sairam[] = new int[50015];
+		for (int i = 0; i < m; i++) {
+			sairam[sc.nextInt()] = 1;
+		}
+		
+		for (int i = 0; i < fila.length; i++) {
+			if(sairam[fila[i]]==0)
+			System.out.print(fila[i]+" ");
 		}
 	}
 }
