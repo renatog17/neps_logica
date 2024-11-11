@@ -9,19 +9,6 @@ public class Main {
 		int n = sc.nextInt();
 		int v[] = new int [n];
 		
-		for (int i = 0; i < v.length; i++) {
-			int aux = sc.nextInt();
-			int anterior = 0;
-			if(aux==0) {
-				if(anterior==0) {
-					v[0] = aux;
-				}else {
-					
-				}
-				anterior = aux;
-				
-			}
-		}
 
 	}
 
