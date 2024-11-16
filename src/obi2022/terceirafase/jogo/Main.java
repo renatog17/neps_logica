@@ -1,4 +1,4 @@
-package obi2022.terceirafase;
+package obi2022.terceirafase.jogo;
 
 import java.util.Scanner;
 
